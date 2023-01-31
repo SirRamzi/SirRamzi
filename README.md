@@ -1,8 +1,6 @@
 <h1 align="center">Привет, меня зовут Александр Прокофьев</h1>
 <h3 align="center">Я начинающий Java backend developer из Самары</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sirramzi" alt="sirramzi" /></a> </p>
-
 - 🔭 I’m currently working on **Timetable TelegramBot**
 
 - 📫 How to reach me **aleks.aleksp@gmail.com**
